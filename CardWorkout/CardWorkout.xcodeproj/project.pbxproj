@@ -13,6 +13,7 @@
 		1D6F9F4D2A2FD74E00344F6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D6F9F4C2A2FD74E00344F6D /* Assets.xcassets */; };
 		1D6F9F502A2FD74E00344F6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D6F9F4E2A2FD74E00344F6D /* LaunchScreen.storyboard */; };
 		1D6F9F582A2FD81300344F6D /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6F9F572A2FD81300344F6D /* CardSelectionVC.swift */; };
+		1D6F9F5A2A2FF2B700344F6D /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D6F9F592A2FF2B700344F6D /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D6F9F4F2A2FD74E00344F6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D6F9F512A2FD74E00344F6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1D6F9F572A2FD81300344F6D /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
+		1D6F9F592A2FF2B700344F6D /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1D6F9F432A2FD74C00344F6D /* AppDelegate.swift */,
 				1D6F9F452A2FD74C00344F6D /* SceneDelegate.swift */,
 				1D6F9F572A2FD81300344F6D /* CardSelectionVC.swift */,
+				1D6F9F592A2FF2B700344F6D /* Card.swift */,
 				1D6F9F492A2FD74C00344F6D /* Main.storyboard */,
 				1D6F9F4C2A2FD74E00344F6D /* Assets.xcassets */,
 				1D6F9F4E2A2FD74E00344F6D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1D6F9F442A2FD74C00344F6D /* AppDelegate.swift in Sources */,
 				1D6F9F462A2FD74C00344F6D /* SceneDelegate.swift in Sources */,
 				1D6F9F582A2FD81300344F6D /* CardSelectionVC.swift in Sources */,
+				1D6F9F5A2A2FF2B700344F6D /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
