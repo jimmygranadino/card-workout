@@ -44,6 +44,7 @@
 		1D6F9F372A2FD74C00344F6D = {
 			isa = PBXGroup;
 			children = (
+				1D3890A12A2FF9860052E912 /* readme.md */,
 				1D6F9F422A2FD74C00344F6D /* CardWorkout */,
 				1D6F9F412A2FD74C00344F6D /* Products */,
 			);
@@ -68,7 +69,6 @@
 				1D6F9F4C2A2FD74E00344F6D /* Assets.xcassets */,
 				1D6F9F4E2A2FD74E00344F6D /* LaunchScreen.storyboard */,
 				1D6F9F512A2FD74E00344F6D /* Info.plist */,
-				1D3890A12A2FF9860052E912 /* readme.md */,
 			);
 			path = CardWorkout;
 			sourceTree = "<group>";

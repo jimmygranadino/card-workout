@@ -5,4 +5,4 @@ This app will display a random card from a standard deck when ran until the user
 
 **Created using Swift + Storyboard for iOS.**
 
-![App Screen](https://github.com/jimmygranadino/card-workout/tree/master/CardWorkout/CardWorkout/Assets.xcassets/app.imageset/app.png) ![Rules Modal in App](https://github.com/jimmygranadino/card-workout/tree/master/CardWorkout/CardWorkout/Assets.xcassets/rules.imageset/rules.png)
+![App Screen](https://github.com/jimmygranadino/card-workout/blob/master/CardWorkout/CardWorkout/Assets.xcassets/app.imageset/app.png) ![Rules Modal in App](https://github.com/jimmygranadino/card-workout/blob/master/CardWorkout/CardWorkout/Assets.xcassets/rules.imageset/rules.png)
